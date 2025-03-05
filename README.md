@@ -1,2 +1,2 @@
 # responsive-adsA
-Responsive ads task 1. 
+Responsive ads javascript task. 
